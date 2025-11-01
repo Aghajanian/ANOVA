@@ -24,7 +24,13 @@ The script expects a pandas DataFrame with:
 	•	statsmodels
 
 ### License
-This code is provided for research and educational purposes.
+
+This software is released under the MIT License. See the `LICENSE` file for more details.
+
+**© 2024 All rights reserved - Aghajanian | © 2024**
+
+---
+
 
 ### Run the script directly
 python anova_analysis.py
